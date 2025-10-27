@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felipe-Feliciano
-- 👀 I’m interested in python,sql,mongodb,power bi,qa, gherking
-- 🌱 I’m currently learning Data Science on Fatec
+- 👀 I’m interested in plano de teste ,qa, gherking, automação de testes, testes manuais. testes funcionais
+- 🌱 I’m currently learning QA
 - 📫 How to reach me ffgdias@hotmail.com or in my likedin https://www.linkedin.com/in/felipe-feliciano-/
 
   
